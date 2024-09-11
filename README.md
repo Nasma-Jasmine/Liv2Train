@@ -1,4 +1,4 @@
-# Liv2Train
+
 Liv2Train - Training Center Registry
 
 This is the MVP for the **Liv2Train** project, a Spring Boot application to manage the registry of government-funded training centers. It provides two REST APIs to create and retrieve training center information, using **MongoDB** as the database.
